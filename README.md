@@ -1,8 +1,8 @@
 # 👋 Seja Bem Vindo!
 
 -🎓 Estudante de Análise e Desenvolvimento de Sistemas  
--🚀 Adoro tecnologia com foco em desenvolvimento web  
--📚 Estou em constante evolução, sempre aprendendo com projetos reais e desafios diários
+-🚀 Adoro tecnologia, atualmente estou com foco em desenvolvimento web  
+-📚 Sempre em constante evolução, aprendendo com projetos reais e desafios diários
 
 ---
 
